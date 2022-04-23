@@ -1,2 +1,2 @@
-# Tkint
+# Tkinter
 
